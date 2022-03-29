@@ -1,0 +1,58 @@
+.welcome-banner {
+  height: 100vh;
+}
+.welcome-banner-cerificate img {
+  height: 25px;
+  width: auto;
+}
+
+.btn-success {
+  background-color: var(--button-color);
+  color: var(--text-white);
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid var(--button-color);
+  padding: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 260px;
+}
+.btn-success:hover {
+  background-color: transparent;
+}
+
+.courses-calendar-card-icon-text {
+  margin-bottom: 1rem;
+}
+.greenbar {
+  background-color: var(--button-color);
+  border-radius: 5px;
+  height: 0.25rem;
+  width: auto;
+}
+.who-we-are {
+  background-color: var(--bg-secondary);
+  width: auto;
+}
+.partners {
+  height: 40vh;
+  width: auto;
+}
+.parteners-image {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 2.65rem;
+}
+.parteners-image .image-wrap {
+  height: 100px;
+  width: 99px;
+  margin-right: 2.65rem;
+  margin-left: 2.65rem;
+  margin-bottom: 1rem;
+  filter: grayscale(100%);
+}
+.parteners-image .image-wrap:hover {
+  filter: grayscale(0%);
+}

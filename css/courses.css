@@ -7,3 +7,12 @@
 .card-text {
   color: #666;
 }
+.card-img-top{
+  width: auto;
+  height: 130px;
+}
+.card-text img{
+  width: 100px;
+  height: 100px;
+  padding-left: 10px;
+}

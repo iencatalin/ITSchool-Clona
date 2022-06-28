@@ -1,6 +1,6 @@
-This is ITSchool clone
+During the front-end development course done together with those from IT School, we developed an clone for their website
 
 
 ## Link Example
 
-Link to [Tic Tac Toe - Game App](https://ic-clone-it-school.netlify.app/)
+Link to [ITSchool - Clone](https://ic-clone-it-school.netlify.app/)
